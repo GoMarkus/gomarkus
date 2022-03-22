@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Pixel Game in Unity
+- 🔭 I’m currently working on a ...
 - 🌱 I’m currently learning DevOps Stuff
 - 👯 I’m looking to collaborate on 7nCloud
 - 💬 Ask me about everything in Backend
